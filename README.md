@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td><strong>Threading</strong></td>
-    <td><img src="https://img.shields.io/badge/GCD-blue"> <img src="https://img.shields.io/badge/Concurrency-yellow"></td>
+    <td><img src="https://img.shields.io/badge/GCD-blue"> <img src="https://img.shields.io/badge/Structured Concurrency-orange"></td>
   </tr>
   <tr>
     <td><strong>Networking</strong></td>
@@ -29,11 +29,11 @@
   </tr>
   <tr>
     <td><strong>Architectural Patterns</strong></td>
-    <td><img src="https://img.shields.io/badge/MVP-blue"> <img src="https://img.shields.io/badge/MVVM-orange"> <img src="https://img.shields.io/badge/VIPER-red"></td>
+    <td><img src="https://img.shields.io/badge/MVP-blue"> <img src="https://img.shields.io/badge/MVVM-orange"> <img src="https://img.shields.io/badge/VIPER-red"> <img src="https://img.shields.io/badge/CleanSwift-green"> <img src="https://img.shields.io/badge/Coordinator-gray"> </td>
   </tr>
   <tr>
     <td><strong>Dependency Management</strong></td>
-    <td><img src="https://img.shields.io/badge/CocoaPods-red"> <img src="https://img.shields.io/badge/SPM-green"></td>
+    <td><img src="https://img.shields.io/badge/CocoaPods-red"> <img src="https://img.shields.io/badge/SPM-green"> <img src="https://img.shields.io/badge/Carhage-blue"></td></td>
   </tr>
 </table>
 
