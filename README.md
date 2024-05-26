@@ -1,6 +1,6 @@
 # Hi there 👋
 
-💼 I'm an **iOS developer**, currently looking for interesting projects to work on
+💼 I'm an **iOS developer**, currently working at [VK](https://vk.company/ru/) Vkontakte
 
 🇬🇧 My English is at **Advanced C1** level according to IELTS  
 
