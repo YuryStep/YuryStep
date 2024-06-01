@@ -15,6 +15,7 @@
     <td><strong>Languages and Frameworks</strong>
     </td>
     <td><img src="https://img.shields.io/badge/Swift-5.0-orange"> 
+    <img src="https://img.shields.io/badge/ObjC-gray"> 
     <img src="https://img.shields.io/badge/UIKit-blue">
     <img src="https://img.shields.io/badge/SwiftUI-green">
     <img src="https://img.shields.io/badge/XCTest-red"></td>
